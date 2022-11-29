@@ -1,0 +1,5 @@
+hello, this is jyothi.
+i m learning github as a part of devops.
+i created a branch name as a jyothig from release 3.0.
+and then i created release/3.2 branch from jyothig.
+after that i created folder name as a jyothig and also created file name as jyothi1.txt in release/3.2.
